@@ -64,7 +64,7 @@ export const Contact = () => {
                   <Phone className="text-accent flex-shrink-0 mt-1" size={24} />
                   <div>
                     <h3 className="font-bold mb-1">Phone</h3>
-                    <p className="text-gray-600">+91 98765 43210</p>
+                    <p className="text-gray-600">+91 78220 65641</p>
                   </div>
                 </div>
 
@@ -72,7 +72,7 @@ export const Contact = () => {
                   <Mail className="text-accent flex-shrink-0 mt-1" size={24} />
                   <div>
                     <h3 className="font-bold mb-1">Email</h3>
-                    <p className="text-gray-600">hello@nileshcreation.com</p>
+                    <p className="text-gray-600">nileshsonar9921@gmail.com</p>
                   </div>
                 </div>
 
@@ -80,7 +80,7 @@ export const Contact = () => {
                   <MapPin className="text-accent flex-shrink-0 mt-1" size={24} />
                   <div>
                     <h3 className="font-bold mb-1">Address</h3>
-                    <p className="text-gray-600">Mumbai, Maharashtra, India</p>
+                    <p className="text-gray-600">Dharangaon, Jalgaon, Maharashtra, India</p>
                   </div>
                 </div>
               </div>
