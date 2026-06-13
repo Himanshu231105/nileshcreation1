@@ -15,15 +15,15 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-2">
                 <Phone size={20} className="text-accent" />
-                <span>+91 98765 43210</span>
+                <span>+91 78220 65641</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={20} className="text-accent" />
-                <span>hello@nileshcreation.com</span>
+                <span>nileshsonar9921@gmail.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin size={20} className="text-accent" />
-                <span>Mumbai, India</span>
+                <span>Dharangaon, Jalgaon, India</span>
               </div>
             </div>
           </div>
